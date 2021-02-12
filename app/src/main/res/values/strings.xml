@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="odd_and_even_activity">odd and even activity</string>
+    <string name="process">process</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="even_number">even number:</string>
+    <string name="odd_number">odd number:</string>
+</resources>
